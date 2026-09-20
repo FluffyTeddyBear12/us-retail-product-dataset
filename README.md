@@ -2,7 +2,7 @@
 
 [![Dataset License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Format: CSV / JSONL / SQLite](https://img.shields.io/badge/Formats-CSV%20%7C%20JSONL%20%7C%20SQLite-green.svg)](#)
-[![Early-Bird Deal](https://img.shields.io/badge/Gumroad-70%25%20OFF%20Launch%20Deal-orange.svg)](YOUR_GUMROAD_PRODUCT_URL)
+[![Early-Bird Deal](https://img.shields.io/badge/Gumroad-70%25%20OFF%20Launch%20Deal-orange.svg)](https://jimmied.gumroad.com/l/bsdipe)
 
 A clean, normalized, 1P-verified retail product catalog covering major US retailers (**Walmart** and **Target**). Designed for data scientists, machine learning engineers, retail arbitrageurs, and e-commerce developers.
 
@@ -40,7 +40,7 @@ A free 100-row preview sample is included in this repository: [`free_sample_prev
 
 Looking for the complete production database for your application or business?
 
-👉 **[Download the Master Catalog on Gumroad (Early-Bird Launch Deal: $24)](YOUR_GUMROAD_PRODUCT_URL)**
+👉 **[Download the Master Catalog on Gumroad (Early-Bird Launch Deal: $24)](https://jimmied.gumroad.com/l/bsdipe)**
 
 **What's inside the full package:**
 - Complete 50k+ unified cross-referenced table in **CSV (UTF-8 BOM)**.
