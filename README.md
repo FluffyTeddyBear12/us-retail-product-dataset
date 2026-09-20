@@ -2,7 +2,7 @@
 
 [![Dataset License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Format: CSV / JSONL / SQLite](https://img.shields.io/badge/Formats-CSV%20%7C%20JSONL%20%7C%20SQLite-green.svg)](#)
-[![Early-Bird Deal](https://img.shields.io/badge/Gumroad-70%25%20OFF%20Launch%20Deal-orange.svg)](https://jimmied.gumroad.com/l/bsdipe)
+[![Commercial Store](https://img.shields.io/badge/Gumroad-Commercial%20Data%20Fleet-orange.svg)](https://jimmied.gumroad.com/l/bsdipe)
 
 A clean, normalized, 1P-verified retail product catalog covering major US retailers (**Walmart** and **Target**). Designed for data scientists, machine learning engineers, retail arbitrageurs, and e-commerce developers.
 
@@ -36,17 +36,23 @@ A free 100-row preview sample is included in this repository: [`free_sample_prev
 
 ---
 
-## ⚡ Get the Full 50,000+ Master Catalog
+## ⚡ Get the Full 62,500+ Master Catalog & Arbitrage Matches
 
-Looking for the complete production database for your application or business?
+Looking for the complete production database or cross-store arbitrage matching table for your application or business?
 
-👉 **[Download the Master Catalog on Gumroad (Early-Bird Launch Deal: $24)](https://jimmied.gumroad.com/l/bsdipe)**
+👉 **[Download the Master Catalog on Gumroad (4 Tiers from $19 to $79)](https://jimmied.gumroad.com/l/bsdipe)**
 
-**What's inside the full package:**
-- Complete 50k+ unified cross-referenced table in **CSV (UTF-8 BOM)**.
+**Commercial Tiers Available:**
+1. **Developer Starter Pack ($19.00):** 10,000 SKUs (5k Walmart + 5k Target) with 100% verified barcodes.
+2. **Walmart 1P Sovereign Master Index ($39.00):** Full 14,000+ Walmart 1P catalog with 90%+ GTIN barcodes and shelf prices.
+3. **Target Sovereign Master Index ($39.00):** Full 48,900+ Target catalog with TCIN, 19,300+ DPCI codes, and barcodes.
+4. **Master Arbitrage Dual-Fleet Bundle ($79.00):** Complete 62,500+ catalog + Unified Cross-Store Barcode Match Table with price spread analysis.
+
+**Formats included in every tier:**
+- Formatted table in **CSV (UTF-8 BOM)** for native Excel support.
 - Streaming **JSONL** file for big-data pipelines (BigQuery, Pandas, Elasticsearch).
 - Pre-indexed **SQLite 3 database** with B-Tree indexes on `upc_gtin`, `brand`, and `category`.
-- Full commercial use license.
+- Full perpetual commercial license.
 
 ---
 
@@ -59,12 +65,14 @@ import csv
 
 with open("free_sample_preview_100_rows.csv", mode="r", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f)
-    for row in list(reader)[:5]:
-        print(f"[{row['retailer']}] {row['brand']} - {row['title']} (UPC: {row['upc_gtin']})")
+    for i, row in enumerate(reader):
+        if i >= 5:
+            break
+        print(f"[{row['retailer']}] {row['title']} | UPC: {row['upc_gtin']} | ${row['price_usd']}")
 ```
 
 ---
 
-## 📜 License
-- The free sample dataset in this repository is licensed under the **MIT License**.
-- The full master catalog on Gumroad includes a **Perpetual Commercial Use License**.
+## 📄 License
+
+This free preview repository is licensed under the [MIT License](LICENSE). Commercial production tiers are licensed under the NestStock Commercial Data License.
