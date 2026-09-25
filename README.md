@@ -3,8 +3,20 @@
 [![Dataset License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Format: CSV / JSONL / SQLite](https://img.shields.io/badge/Formats-CSV%20%7C%20JSONL%20%7C%20SQLite-green.svg)](#)
 [![Commercial Store](https://img.shields.io/badge/Gumroad-Commercial%20Data%20Fleet-orange.svg)](https://jimmied.gumroad.com/l/bsdipe)
+[![Run on Apify](https://img.shields.io/badge/Apify%20Store-Live%20Cloud%20Harvester-2ECC71.svg)](https://apify.com/fluffyteddybear/walmart-1p-catalog-harvester)
 
 A clean, normalized, 1P-verified retail product catalog covering major US retailers (**Walmart** and **Target**). Designed for data scientists, machine learning engineers, retail arbitrageurs, and e-commerce developers.
+
+---
+
+## ☁️ Live Cloud Harvester (Apify Store)
+
+Need fresh, continuous daily catalog scans without managing proxies or scraping infrastructure?
+
+Run our official production scraper directly on Apify:
+👉 **[Launch Walmart 1P Catalog Harvester on Apify Store](https://apify.com/fluffyteddybear/walmart-1p-catalog-harvester)**
+- **Pricing:** Pay-per-result at `$2.50 / 1,000 items` (all platform usage and proxy costs included).
+- **Features:** Akamai TLS bypass, strict 1P verification, automatic GTIN barcode preservation, JSON/CSV/Excel exports, and webhook integration.
 
 ---
 
@@ -40,13 +52,14 @@ A free 100-row preview sample is included in this repository: [`free_sample_prev
 
 Looking for the complete production database or cross-store arbitrage matching table for your application or business?
 
-👉 **[Download the Master Catalog on Gumroad (4 Tiers from $19 to $79)](https://jimmied.gumroad.com/l/bsdipe)**
+👉 **[Download the Master Catalog on Gumroad](https://jimmied.gumroad.com/l/bsdipe)**
 
 **Commercial Tiers Available:**
-1. **Developer Starter Pack ($19.00):** 10,000 SKUs (5k Walmart + 5k Target) with 100% verified barcodes.
-2. **Walmart 1P Sovereign Master Index ($39.00):** Full 14,000+ Walmart 1P catalog with 90%+ GTIN barcodes and shelf prices.
-3. **Target Sovereign Master Index ($39.00):** Full 48,900+ Target catalog with TCIN, 19,300+ DPCI codes, and barcodes.
-4. **Master Arbitrage Dual-Fleet Bundle ($79.00):** Complete 62,500+ catalog + Unified Cross-Store Barcode Match Table with price spread analysis.
+1. **Developer Starter Pack ($39.00):** 10,000 SKUs (5k Walmart + 5k Target) with 100% verified barcodes.
+2. **Walmart 1P Sovereign Master Index ($99.00):** Full 13,754 Walmart 1P catalog with 90%+ GTIN barcodes and shelf prices.
+3. **Target Sovereign Master Index ($99.00):** Full 48,816 Target catalog with TCIN, 19,300+ DPCI codes, and barcodes.
+4. **Master Arbitrage Dual-Fleet Bundle ($199.00):** Complete 62,570 catalog + Unified Cross-Store Barcode Match Table with price spread analysis.
+5. **Early Adopter Commercial Deal ($149.00):** Full Dual-Fleet Bundle promotional access.
 
 **Formats included in every tier:**
 - Formatted table in **CSV (UTF-8 BOM)** for native Excel support.
