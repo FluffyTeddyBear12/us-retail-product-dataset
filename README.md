@@ -48,7 +48,7 @@ A free 100-row preview sample is included in this repository: [`free_sample_prev
 
 ---
 
-## ⚡ Get the Full 62,500+ Master Catalog & Arbitrage Matches
+## ⚡ Get the Full 1,040,032+ Master Catalog & Arbitrage Matches
 
 Looking for the complete production database or cross-store arbitrage matching table for your application or business?
 
@@ -56,9 +56,9 @@ Looking for the complete production database or cross-store arbitrage matching t
 
 **Commercial Tiers Available:**
 1. **Developer Starter Pack ($39.00):** 10,000 SKUs (5k Walmart + 5k Target) with 100% verified barcodes.
-2. **Walmart 1P Sovereign Master Index ($99.00):** Full 13,754 Walmart 1P catalog with 90%+ GTIN barcodes and shelf prices.
-3. **Target Sovereign Master Index ($99.00):** Full 48,816 Target catalog with TCIN, 19,300+ DPCI codes, and barcodes.
-4. **Master Arbitrage Dual-Fleet Bundle ($199.00):** Complete 62,570 catalog + Unified Cross-Store Barcode Match Table with price spread analysis.
+2. **Walmart 1P Sovereign Master Index ($99.00):** Full 423,373 Walmart 1P catalog with 90%+ GTIN barcodes and shelf prices.
+3. **Target Sovereign Master Index ($99.00):** Full 616,659 Target catalog with TCIN, 19,300+ DPCI codes, and barcodes.
+4. **Master Arbitrage Dual-Fleet Bundle ($199.00):** Complete 1,040,032 catalog + Unified Cross-Store Barcode Match Table with price spread analysis.
 5. **Early Adopter Commercial Deal ($149.00):** Full Dual-Fleet Bundle promotional access.
 
 **Formats included in every tier:**
