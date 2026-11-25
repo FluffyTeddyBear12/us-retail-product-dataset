@@ -1,7 +1,7 @@
 ﻿retailer,item_id,tcin,dpci,upc_gtin,title,brand,category,model,size,price_usd,currency,in_stock,is_verified_1p,last_verified_utc
-Walmart,10450114,,,078742351865,"Great Value Whole Vitamin D Milk, Gallon",Great Value,Whole Milk,,,2.46,USD,1,1,2026-09-18T12:44:33.030804+00:00
+Walmart,10450114,,,078742351865,"Great Value Whole Vitamin D Milk, Gallon",Great Value,Whole Milk,,,4.62,USD,1,1,2026-11-21T16:54:16.257821+00:00
 Walmart,10291025,,,033200011101,"ARM & HAMMER Baking Soda for Cooking, Cleaning, Laundry, Deodorizing, & More, 1 lb Box",ARM & HAMMER,Baking Soda,033200011101,,1.52,USD,1,1,2026-09-18T15:08:38.930175+00:00
-Walmart,10308182,,,051500242414,Butter Flavor All-Vegetable Shortening,Crisco,Make & eat pie,5150004042,,7.97,USD,1,1,2026-09-18T15:08:50.286136+00:00
+Walmart,10308182,,,051500242414,Butter Flavor All-Vegetable Shortening,Crisco,Make & eat pie,5150004042,,10.79,USD,1,0,2026-11-21T16:46:46.817032+00:00
 Walmart,450346255,,,196005243952,"Crisco Pure Vegetable Oil, Cooking Oil, 16 fl oz",Crisco,Pantry Essentials,196005243952,,2.97,USD,1,1,2026-09-18T15:09:14.909486+00:00
 Walmart,731592644,,,196005708345,"Crisco Pure Canola Oil, Cooking Oil, 40 fl oz",Crisco,Pantry Essentials,1170834,,4.97,USD,1,1,2026-09-18T15:09:28.997702+00:00
 Walmart,10308190,,,051500251959,"​​​Crisco All-Vegetable Butter Flavored Shortening Baking Sticks, Gluten Free Shortening, 20 oz​​",Crisco,Gluten Free Baking Ingredients,196005251957,,6.52,USD,1,1,2026-09-18T15:09:42.157909+00:00
@@ -11,11 +11,11 @@ Walmart,876483082,,,078742364629,"Great Value Baby Lima Beans, 1 lb",Great Value
 Walmart,10314940,,,078742371351,"Great Value Large Lima Beans, 16 oz",Great Value,Beans,0007874237135,,1.98,USD,1,1,2026-09-18T15:11:02.319610+00:00
 Walmart,545884744,,,078742364759,"Great Value Lentils, 1 lb",Great Value,Beans,,,1.92,USD,1,1,2026-09-18T15:11:09.086789+00:00
 Walmart,963541867,,,078742364797,"Great Value Navy Beans, 16 oz",Great Value,Canned beans,,,1.33,USD,1,1,2026-09-18T15:11:23.510765+00:00
-Walmart,716746746,,,078742364858,"Great Value Small Red Beans, 1 lb",Great Value,Beans,,,1.87,USD,1,1,2026-09-18T15:11:31.683494+00:00
+Walmart,716746746,,,078742364858,"Great Value Small Red Beans, 1 lb",Great Value,Beans,,,1.92,USD,1,1,2026-11-23T01:29:59.918491+00:00
 Walmart,294723013,,,078742364810,"Great Value Kosher Pinto Beans, 16 oz",Great Value,Beans,,,1.0,USD,1,1,2026-09-18T15:11:42.260245+00:00
 Walmart,10314950,,,078742371504,"Great Value Pure Vanilla Extract, 2 fl oz",Great Value,"All Vanilla Extract, Food Coloring & Spices",0007874237150,,5.12,USD,1,1,2026-09-18T15:11:53.088521+00:00
-Walmart,10314960,,,078742371603,"Great Value Cream of Mushroom Condensed Soup, 10.5 oz",Great Value,Condensed Soup,1473,,0.74,USD,1,1,2026-09-18T15:12:09.516892+00:00
-Walmart,10314968,,,078742371825,"Great Value Brown Gravy Mix, 0.87 oz Packet",Great Value,Great Value spices and seasonings,998311,,0.57,USD,1,1,2026-09-18T15:12:51.959924+00:00
+Walmart,10314960,,,078742371603,"Great Value Cream of Mushroom Condensed Soup, 10.5 oz",Great Value,Condensed Soup,1473,,0.86,USD,1,1,2026-11-21T16:49:13.055555+00:00
+Walmart,10314968,,,078742371825,"Great Value Brown Gravy Mix, 0.87 oz Packet",Great Value,Mashed potatoes,998311,,0.27,USD,1,1,2026-11-21T16:49:16.737198+00:00
 Walmart,10314970,,,078742371849,"Great Value Chicken Gravy Mix, 0.87 oz Packet",Great Value,Meal starters,998424,,0.92,USD,1,1,2026-09-18T15:12:58.113200+00:00
 Walmart,10314980,,,080100004252,"Revlon Super Lustrous Creme Lipstick, Creamy Formula, 415 Pink In The Afternoon, 0.15 oz",Revlon,Lipstick,7246618167,,6.87,USD,1,1,2026-09-18T15:13:26.867802+00:00
 Walmart,10314985,,,080100004610,"Revlon Super Lustrous Creme Lipstick, Creamy Formula, 440 Cherries in the Snow, 0.15 oz",Revlon,Lipstick,7255140440,,6.87,USD,1,1,2026-09-18T15:13:36.126222+00:00
@@ -29,14 +29,14 @@ Walmart,10315930,,,078742068459,"Great Value Sauerkraut, 14.5 oz",Great Value,Al
 Walmart,10315955,,,078742073491,"Great Value Peas & Diced Carrots, 8.5 oz Can",Great Value,Canned carrots,07349,,0.72,USD,1,1,2026-09-18T15:21:55.024917+00:00
 Walmart,10315960,,,078742074924,"Great Value Beef Burgers, 80% Lean/20% Fat, 3 lbs, 12 Count (Frozen)",Great Value,Ground Beef & Patties,,,14.97,USD,1,1,2026-09-18T15:22:06.165801+00:00
 Walmart,10450117,,,078742351896,"Great Value Fat-Free Milk, Gallon, 128 fl oz",Great Value,Skim Milk,35189,,2.46,USD,1,1,2026-09-18T15:23:34.044084+00:00
-Walmart,10450118,,,078742352008,"Great Value Milk Whole Vitamin D, Half Gallon, , 64 fl oz",Great Value,Whole Milk,35200,,1.48,USD,1,1,2026-09-18T15:23:43.217562+00:00
+Walmart,10450118,,,078742352008,"Great Value Milk Whole Vitamin D, Half Gallon, 64 fl oz",Great Value,Whole Milk,35200,,2.62,USD,1,1,2026-11-21T16:55:45.675309+00:00
 Walmart,10450119,,,078742352015,"Great Value , 2% Reduced Fat Milk, Half Gallon, 64 fl oz",Great Value,2% Milk,NATION000000237,,1.48,USD,1,1,2026-09-18T15:23:53.333303+00:00
 Walmart,10450120,,,078742352039,"Great Value Milk, Fat Free, Unflavored, Half Gallon, 64 oz Jug",Great Value,Skim Milk,,,1.48,USD,1,1,2026-09-18T15:24:02.378990+00:00
 Walmart,10450127,,,078742369266,"Great Value Original Vanilla Low-fat Yogurt, 32 oz Tub",Great Value,Traditional Yogurt,,,2.64,USD,1,1,2026-09-18T15:24:23.883663+00:00
 Walmart,10452391,,,078742432908,"Great Value Fat-Free Cream Cheese Brick, 8 oz Block",Great Value,Great Value Cheese,39593,,1.56,USD,1,1,2026-09-18T15:24:53.622897+00:00
 Walmart,10452392,,,078742228686,"Great Value Individually Plastic Wrapped Singles White American Cheese Product, 12 oz, 16 Slices",Great Value,American Cheese,19381,,1.98,USD,1,1,2026-09-18T15:25:05.573173+00:00
 Walmart,11027099,,,010900000284,"Reynolds Wrap Heavy Duty Aluminum Foil, 18 Inch Width, 75 square feet",REYNOLDS WRAP,Shop All Aluminum Foil,00F202120005,,10.17,USD,1,1,2026-09-18T15:26:03.395928+00:00
-Walmart,11027101,,,010900003308,"Reynolds Cut-Rite Wax Paper, 75 Square Feet",Reynolds Kitchens,Parchment Paper,00G31324RIB3,,2.66,USD,1,1,2026-09-18T15:26:12.974392+00:00
+Walmart,11027101,,,010900003308,"Reynolds Cut-Rite Wax Paper, 75 Square Feet",Reynolds Kitchens,Parchment Paper,00G31324RIB3,,2.66,USD,1,1,2026-11-21T16:57:44.922062+00:00
 Walmart,11027236,,,019200741866,"Lysol Disinfectant Spray, Sanitizing and Antibacterial Bathroom Spray, Deodorizer, Crisp Linen, 12.5 oz",Lysol,All Purpose Cleaners,1920074186,,6.27,USD,1,1,2026-09-18T15:28:07.442330+00:00
 Walmart,13281640,,,070404000241,Pompeian Mild Taste Olive Oil - 16 fl oz,Pompeian,Pasta salads,070404000241,,6.58,USD,1,1,2026-09-18T15:28:33.174026+00:00
 Walmart,14897447,,,726547383184,Women's Short-Sleeve Crochet Trim Tee,White Stag,Womens Blouses,FFWL20116,,4.56,USD,1,1,2026-09-18T15:29:18.452315+00:00
